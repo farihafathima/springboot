@@ -1,0 +1,5 @@
+package cgg.springdatajpa.mapping.exception;
+
+public class ResourceNotFoundException {
+
+}

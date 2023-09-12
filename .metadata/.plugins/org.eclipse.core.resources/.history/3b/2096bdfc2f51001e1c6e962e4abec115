@@ -1,0 +1,5 @@
+package cgg.springdatajpa.mapping.controller;
+
+public class EmployeeController {
+
+}

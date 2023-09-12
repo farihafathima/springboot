@@ -1,0 +1,5 @@
+package cgg.springdatajpa.mapping.dto;
+
+public class Employee {
+
+}

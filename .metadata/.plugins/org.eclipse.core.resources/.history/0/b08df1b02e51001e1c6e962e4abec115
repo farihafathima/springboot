@@ -1,0 +1,7 @@
+package cgg.springdatajpa.mapping.repository;
+
+import cgg.springdatajpa.mapping.dto.Employee;
+
+public class EmployeeRepository  extends JpaRepository<Employee,Integer>{
+
+}

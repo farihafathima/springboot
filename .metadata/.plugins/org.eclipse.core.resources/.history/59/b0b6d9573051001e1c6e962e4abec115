@@ -1,0 +1,9 @@
+package cgg.springdatajpa.mapping.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api/employee")
+public class EmployeeController {
+
+}

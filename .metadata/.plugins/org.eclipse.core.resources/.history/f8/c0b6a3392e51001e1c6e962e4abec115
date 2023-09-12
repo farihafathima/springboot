@@ -1,0 +1,5 @@
+package cgg.springdatajpa.mapping.repository;
+
+public class EmployeeRepository {
+
+}
